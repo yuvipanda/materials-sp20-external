@@ -1,7 +1,8 @@
 {
     "XeusPythonEnv": {
         "packages": [
-            "datascience"
+            "datascience",
+            "ipywidgets"
         ]
     }
 }
